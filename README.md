@@ -41,4 +41,10 @@ me.say_hi()
 ![](https://img.shields.io/badge/Tools-Terraform-informational?style=flat&logo=Terraform&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Helm-informational?style=flat&logo=Helm&logoColor=white&color=6aa6f8)
 
+### Github Activity: 🔥 
+   <a href="https://github.com/panjek26"><img alt="panjek26's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=panjek26&custom_title=panjek26's%20Contribution%20Graph&theme=react-dark" /></a>
+   
+   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+   
+
 
