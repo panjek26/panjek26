@@ -15,7 +15,7 @@ class SRE:
 
     def __init__(self):
         self.name = "Panji Pratama Kurniawan"
-        self.role = "Site Reliability Engineer"
+        self.role = "Sr. Engineer"
         self.language_spoken = ["id", "en_US"]
 
     def say_hi(self):
